@@ -1,54 +1,66 @@
-import socket
-from Tkinter import *
+from socket import AF_INET, socket, SOCK_STREAM
+from threading import Thread
 
-#Решаем вопрос с кирилицей
-reload(sys)
-sys.setdefaultencoding('utf-8')
-#-----------------------------
+clients = {}
+addresses = {}
 
-tk=Tk()
+HOST = ''
+PORT = 33000
+BUFSIZ = 1024
+ADDR = (HOST, PORT)
+SERVER = socket(AF_INET, SOCK_STREAM)
+SERVER.bind(ADDR)
 
-s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-s.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
-s.bind(('0.0.0.0',11719))
 
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-sock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST,1)
+def accept_incoming_connections():
+    while True:
+        client, client_addres = SERVER.accept()
+        print(f"{client}:{client_addres} has connected.")
+        client.send(bytes("Greetings from the cave\n!" +
+                          "Now type your name and press enter!", "utf8"))
+        addresses[client] = client_addres
+        Thread(target=handle_client, args=(client,)).start()
 
-text=StringVar()
-name=StringVar()
-name.set('HabrUser')
-text.set('')
-tk.title('MegaChat')
-tk.geometry('400x300')
 
-log = Text(tk)
-nick = Entry(tk, textvariable=name)
-msg = Entry(tk, textvariable=text)
-msg.pack(side='bottom', fill='x', expand='true')
-nick.pack(side='bottom', fill='x', expand='true')
-log.pack(side='top', fill='both',expand='true')
+def handle_client(client):
+    name = client.recv(BUFSIZ).decode("utf-8")
+    welcome = f'welcome {name}! If you want to quit? type {"{quit}"} to exit.'
+    client.send(bytes(welcome, 'utf-8'))
+    msg = f"{name} has joined the chat!"
+    broadcast(bytes(msg, 'utf-8'))
+    clients[client] = name
 
-def loopproc():
-	log.see(END)
-	s.setblocking(False)
-	try:
-		message = s.recv(128)
-		log.insert(END,message+'\n')
-	except:
-		tk.after(1,loopproc)
-		return
-	tk.after(1,loopproc)
-	return
+    while True:
+        try:
+            msg = client.recv(BUFSIZ)
+        except OSError:
+            continue
 
-def sendproc(event):
-	sock.sendto (name.get()+':'+text.get(),('255.255.255.255',11719))
-	text.set('')
+        if msg != bytes("{quit}", "utf-8"):
+            broadcast(msg, f"{name}:\t")
+        else:
+            client.send(bytes("{quit}", "utf-8"))
+            client.close()
+            del clients[client]
+            broadcast(bytes(f"{name} has left the chat.", "utf-8"))
+            break
 
-msg.bind('<Return>',sendproc)
 
-msg.focus_set()
+def broadcast(msg, prefix=""):
+    for sock in list(clients):
+        try:
+            sock.send(bytes(prefix, "utf-8") + msg)
 
-tk.after(1,loopproc)
-tk.mainloop()
+        except BrokenPipeError:
+            print("BrokenPipeError---------------------")
+            sock.close()
+            del clients[sock]
+
+
+if __name__ == "__main__":
+    SERVER.listen(5)
+    print("Waiting for connection...")
+    ACCEPT_THREAD = Thread(target=accept_incoming_connections)
+    ACCEPT_THREAD.start()
+    ACCEPT_THREAD.join()
+    SERVER.close()
