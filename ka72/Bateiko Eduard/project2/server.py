@@ -7,7 +7,7 @@ clients = {}
 addresses = {}
 
 HOST = ''
-PORT = 33001
+PORT = 33000
 BUFSIZE = 1024 ** 2
 ADDR = (HOST, PORT)
 SERVER = socket(AF_INET, SOCK_STREAM)
@@ -42,8 +42,9 @@ def something_doing(client):
 
         if recieve_massage == "0":
             client.send(b"quit")
-            client.close()
+
             del clients[client]
+            client.close()
             break
 
         elif recieve_massage == '1':

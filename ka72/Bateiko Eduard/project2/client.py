@@ -12,6 +12,7 @@ def receive():
 
         elif recieve_msg == 'quit':
             client_socket.close()
+            break
 
         elif recieve_msg == 'result':
             receive_result()
@@ -41,7 +42,7 @@ def on_closing(event=None):
 
 
 HOST = '127.0.0.1'
-PORT = 33001
+PORT = 33000
 
 BUFSIZE = 1024
 ADDR = (HOST, PORT)
