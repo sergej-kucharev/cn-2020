@@ -7,7 +7,7 @@ clients = {}
 addresses = {}
 
 HOST = ''
-PORT = 33000
+PORT = 33001
 BUFSIZE = 1024 ** 2
 ADDR = (HOST, PORT)
 SERVER = socket(AF_INET, SOCK_STREAM)
@@ -28,7 +28,7 @@ def accept_connections():
 def add_block(client):
     recieve_massage = client.recv(BUFSIZE).decode('utf-8').replace("'", '"')
     data = json.loads(recieve_massage)
-    print(f"DATA:\n{data}\ntype:\t{type(data)}")
+    # print(f"DATA:\n{data}\ntype:\t{type(data)}")
 
     block.write_block(name=data['name'], amount=int(data['amount']),
                       to_whom=data['to_whom'])
@@ -41,7 +41,7 @@ def something_doing(client):
         recieve_massage = client.recv(BUFSIZE).decode('utf-8')
 
         if recieve_massage == "0":
-            client.send("Thanks for ...")
+            client.send(b"quit")
             client.close()
             del clients[client]
             break
@@ -56,11 +56,13 @@ def something_doing(client):
         elif recieve_massage == '2':
             print("PRESS 2")
             message = 'PRESS 2'
-            client.send(bytes(message, 'utf-8'))
+            result = block.check_integrity()
+            client.send(b"result")
+            client.send(bytes(str(result), 'utf-8'))
 
         else:
-            message = "You not enter some code: '1' '2' or '0'" + line_with_question
-            client.send(bytes(message))
+            message = "You not enter some code: '1' '2' or '0'\n" + line_with_question
+            client.send(bytes(message, 'utf-8'))
 
 
 if __name__ == "__main__":
