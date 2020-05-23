@@ -23,7 +23,7 @@ def accept_connections():
         print(f"{client}:{client_address} has connected.")
         client.send(bytes(f"Hello dear friend!!\n{line_with_question}", 'utf-8'))
 
-        addresses[client] = client_address
+        clients[client] = client_address
         Thread(target=something_doing, args=(client,)).start()
 
 
@@ -42,8 +42,10 @@ def something_doing(client):
 
         if recieve_massage == "0":
             client.send(b"quit")
-            del addresses[client]
+            print(f"len:\t{len(clients)}")
+            del clients[client]
             client.close()
+            print(f"len:\t{len(clients)}")
             break
 
         elif recieve_massage == '1':
