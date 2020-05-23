@@ -2,6 +2,7 @@ from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
 import json
 
+
 def receive():
     while True:
         recieve_msg = client_socket.recv(BUFSIZE).decode("utf-8")
@@ -37,10 +38,6 @@ def send_block():
     message = {"name" : name, "amount" : amount, "to_whom": to_whom}
     # client_socket.send(bytes(message, 'utf-8'))
     client_socket.send(bytes(str(message), 'utf-8'))
-
-
-def on_closing(event=None):
-    pass
 
 
 HOST = '127.0.0.1'
