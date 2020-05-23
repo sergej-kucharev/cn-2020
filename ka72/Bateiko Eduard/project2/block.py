@@ -5,6 +5,7 @@ import hashlib
 
 blockchain_dir = os.curdir + '/blockchain/'
 
+
 def get_hash(filename):
 
     file = open(blockchain_dir + filename, 'rb').read()
@@ -44,14 +45,12 @@ def check_integrity():
 
 def write_block(name, amount, to_whom, prev_hash=""):
 
-    files = get_files() # [1, 2 ,3 ,4 ,5]
+    files = get_files()
 
     prev_file = files[-1]
     file_name = str(prev_file + 1)
 
     prev_hash = get_hash(str(prev_file))
-
-    # print(file_name)
 
     data = {"name": name,
             'amount': amount,
@@ -66,5 +65,5 @@ def main():
     write_block(name='ed', amount=200, to_whom="lilia")
 
 
-# if __name__ == "__main__":
-#     check_integrity()
+if __name__ == "__main__":
+    main()

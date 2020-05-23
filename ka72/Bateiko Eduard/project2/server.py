@@ -1,11 +1,10 @@
-from socket import AF_INET, socket, SOCK_STREAM, SHUT_RDWR
+from socket import AF_INET, socket, SOCK_STREAM, SHUT_RDWR,SO_REUSEADDR, SOL_SOCKET
 from threading import Thread
 import block
 import json
 
 clients = {}
 addresses = {}
-threads = []
 
 HOST = ''
 PORT = 33001
@@ -27,7 +26,7 @@ def accept_connections():
         clients[client] = client_address
         new_thread = Thread(target=something_doing, args=(client,))
         new_thread.start()
-        threads.append(new_thread)
+
 
 def add_block(client):
     recieve_massage = client.recv(BUFSIZE).decode('utf-8').replace("'", '"')
@@ -66,7 +65,7 @@ def something_doing(client):
             client.send(bytes(message, 'utf-8'))
 
 
-def close_server():
+def close_clients():
     while True:
         message = input("Enter action:\t")
         if message == 'close':
@@ -75,12 +74,7 @@ def close_server():
                 client.send(b"quit")
                 del clients[client]
                 client.close()
-
-            # for thread_ in threads:
-            #     thread_.close()
-            SERVER.close()
-            SERVER.shutdown(SHUT_RDWR)
-            return
+            break
 
 
 if __name__ == "__main__":
@@ -88,10 +82,10 @@ if __name__ == "__main__":
     print("Waiting connection...")
 
     ACCEPT_THREAD = Thread(target=accept_connections)
-    # CLOSE_SERVER = Thread(target=close_server)
+    CLOSE_SERVER = Thread(target=close_clients)
 
     ACCEPT_THREAD.start()
-    # CLOSE_SERVER.start()
+    CLOSE_SERVER.start()
 
     ACCEPT_THREAD.join()
 
