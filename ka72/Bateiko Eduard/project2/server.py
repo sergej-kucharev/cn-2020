@@ -16,6 +16,7 @@ SERVER.bind(ADDR)
 line_with_question = "What fo you want:\n If you want to check blocks integrity press 1\n" \
                           "If you want to create transaction press 2\n"
 
+
 def accept_connections():
     while True:
         client, client_address = SERVER.accept()
@@ -25,38 +26,33 @@ def accept_connections():
         addresses[client] = client_address
         Thread(target=something_doing, args=(client,)).start()
 
+
 def add_block(client):
     recieve_massage = client.recv(BUFSIZE).decode('utf-8').replace("'", '"')
     data = json.loads(recieve_massage)
-    # print(f"DATA:\n{data}\ntype:\t{type(data)}")
 
     block.write_block(name=data['name'], amount=int(data['amount']),
                       to_whom=data['to_whom'])
 
 
 def something_doing(client):
-    print("i am there")
     while True:
 
         recieve_massage = client.recv(BUFSIZE).decode('utf-8')
 
         if recieve_massage == "0":
             client.send(b"quit")
-
-            del clients[client]
+            del addresses[client]
             client.close()
             break
 
         elif recieve_massage == '1':
-            print("PRESS 1")
             message = 'block'
             client.send(bytes(message,'utf-8'))
             add_block(client)
             client.send(bytes(f'DONE\n{line_with_question}', 'utf-8'))
 
         elif recieve_massage == '2':
-            print("PRESS 2")
-            message = 'PRESS 2'
             result = block.check_integrity()
             client.send(b"result")
             client.send(bytes(str(result), 'utf-8'))

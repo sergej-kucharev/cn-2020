@@ -28,6 +28,7 @@ def receive_result():
 
     client_socket.send(b"ok")
 
+
 def send_block():
     name = input("Enter name:\t")
     amount = int(input("Enter amount:\t"))
@@ -36,6 +37,7 @@ def send_block():
     message = {"name" : name, "amount" : amount, "to_whom": to_whom}
     # client_socket.send(bytes(message, 'utf-8'))
     client_socket.send(bytes(str(message), 'utf-8'))
+
 
 def on_closing(event=None):
     pass
