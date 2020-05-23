@@ -1,0 +1,12 @@
+project_2 is realised server-client model with blockchain protol.
+server is accepting clients who can send requests.
+requests are adding new transaction(add new block in a chain), checking the chain  integrity  and closing the client session.
+the chain is realised as sequence of text files.
+
+1. Write 3 files with blockchain, server and client
+2. in block.py create function what addes a block to chain
+3. create function with check integrity (check hash in files and calculete hash and equal both)
+4. cretate server what accepts new clients and create thread for each client for requesting on client's request
+5. create client who can add block, check integrity and quit
+6. create processing for close client's socket in server when client come out sesion
+7. create request for close server
