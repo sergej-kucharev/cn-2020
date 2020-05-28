@@ -1,0 +1,59 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+* {
+	box-sizing: border-box;	
+}
+a {
+	text-decoration: none;
+}
+ol {
+	margin: 0;
+}
+h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+.group {
+	box-sizing: border-box;
+	margin: 12px;
+	padding: 12px;
+}
+.group__student {
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 12px;
+	padding: 4px 8px;
+	min-width: 300px;
+	border: 1px dotted gray;
+}
+.group__check {
+	box-sizing: border-box;
+	display: inline-block;
+	margin-left: 12px;
+	padding: 0 4px;
+	cursor: pointer;
+}
+.group__link {
+	box-sizing: border-box;
+	display: inline-block;
+	margin-left: 12px;
+}
+.group__link::before {
+	content: '\21F2';
+}
+.group_ka71 {
+	background-color: #eeeeee;
+}
+.group_ka72 {
+	background-color: #eeeeee;
+}
+.group_ka73 {
+	background-color: #eeeeee;
+}
+.group_ka74 {
+	background-color: #eeeeee;
+}
+.group_ka77 {
+	background-color: #eeeeee;
+}
