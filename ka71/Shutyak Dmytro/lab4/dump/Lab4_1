@@ -1,0 +1,269 @@
+No.     Time           Source                Destination           Protocol Length Info
+      8 4.140026       192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=12/3072, ttl=128 (no response found!)
+
+Frame 8: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4f [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 12 (0x000c)
+    Sequence number (LE): 3072 (0x0c00)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 8.650426       192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=13/3328, ttl=128 (no response found!)
+
+Frame 70: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4e [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 13 (0x000d)
+    Sequence number (LE): 3328 (0x0d00)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 13.655257      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=14/3584, ttl=128 (no response found!)
+
+Frame 93: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4d [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 14 (0x000e)
+    Sequence number (LE): 3584 (0x0e00)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 18.654687      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=15/3840, ttl=128 (no response found!)
+
+Frame 109: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4c [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 15 (0x000f)
+    Sequence number (LE): 3840 (0x0f00)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    184 23.654014      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=16/4096, ttl=128 (no response found!)
+
+Frame 184: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4b [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 16 (0x0010)
+    Sequence number (LE): 4096 (0x1000)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 28.654951      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=17/4352, ttl=128 (no response found!)
+
+Frame 194: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d4a [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 17 (0x0011)
+    Sequence number (LE): 4352 (0x1100)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    288 33.654203      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=18/4608, ttl=128 (no response found!)
+
+Frame 288: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d49 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 18 (0x0012)
+    Sequence number (LE): 4608 (0x1200)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    339 38.655147      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=19/4864, ttl=128 (no response found!)
+
+Frame 339: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d48 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 19 (0x0013)
+    Sequence number (LE): 4864 (0x1300)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    340 43.654574      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=20/5120, ttl=128 (no response found!)
+
+Frame 340: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d47 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 20 (0x0014)
+    Sequence number (LE): 5120 (0x1400)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
+
+No.     Time           Source                Destination           Protocol Length Info
+    417 48.654495      192.168.0.102         143.89.14.1           ICMP     74     Echo (ping) request  id=0x0001, seq=21/5376, ttl=128 (no response found!)
+
+Frame 417: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_08:d0:13 (ac:2b:6e:08:d0:13), Dst: Tp-LinkT_5f:b5:0a (f4:f2:6d:5f:b5:0a)
+Internet Protocol Version 4, Src: 192.168.0.102, Dst: 143.89.14.1
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4d46 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence number (BE): 21 (0x0015)
+    Sequence number (LE): 5376 (0x1500)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (32 bytes)
+
+0000  61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70   abcdefghijklmnop
+0010  71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69   qrstuvwabcdefghi
+        Data: 6162636465666768696a6b6c6d6e6f707172737475767761...
+        [Length: 32]
