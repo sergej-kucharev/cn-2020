@@ -1,0 +1,772 @@
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\froman\fcharset0 Times New Roman;}{\f2\froman\fcharset0 Times New Roman;}{\f3\fswiss\fcharset0 Arial;}{\f4\fswiss\fcharset0 Arial;}}{\colortbl ;\red0 \green0 \blue0;\red0 \green0 \blue9;}{\stylesheet{\fs22\f0\sqformat\spriority1 Normal}{\s1\li560\f0\fs21\sbasedon0\sqformat\spriority1 Body Text}{\s2\li140\outlinelevel0\f2\fs28\b1\sbasedon0\sqformat\spriority1 Heading 1}{\s3\li140\sb80\outlinelevel1\f2\fs21\b1\sbasedon0\sqformat\spriority1 Heading 2}{\s4\li2474\ri2697\qc\f0\fs32\sbasedon0\sqformat\spriority1 Title}{\s5\li140\f2\sbasedon0\sqformat\spriority1 List Paragraph}{\s6\sbasedon0\sqformat\spriority1 Table Paragraph}}{\*\listtable{\list\listtemplateid2181{\listlevel\levelnfc0\levelstartat1\leveljc0\li140\fi-289{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f2\fs28\b1\expnd0\expndtw0\charscalex100}{\listlevel\levelnfc23\leveljc0\li1162\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2185\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3207\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4230\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5253\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6275\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7298\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8321\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}\listid1026}{\list\listtemplateid2182{\listlevel\levelnfc0\levelstartat7\leveljc0\li140\fi-289{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f2\fs28\b1\expnd0\expndtw0\charscalex100}{\listlevel\levelnfc23\leveljc0\li1162\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2185\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3207\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4230\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5253\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6275\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7298\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8321\fi-289{\leveltext\'01\'95;}{\levelnumbers;}}\listid1027}{\list\listtemplateid2183{\listlevel\levelnfc0\levelstartat14\leveljc0\li567\fi-428{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b1\expnd0\expndtw0\charscalex100}{\listlevel\levelnfc23\leveljc0\li1540\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2521\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3501\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4482\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5463\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6443\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7424\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8405\fi-428{\leveltext\'01\'95;}{\levelnumbers;}}\listid1028}}{\*\listoverridetable{\listoverride\listoverridecount0\listid1028\ls3}{\listoverride\listoverridecount0\listid1027\ls2}{\listoverride\listoverridecount0\listid1026\ls1}}{\info{\author alice}{\creatim\yr2020\mo5\dy2\hr10\min55\sec30}{\revtim\yr2020\mo3\dy23\hr22\min4\sec2}}{\*\userprops {\propname Creator}\proptype30{\staticval Microsoft\'AE Word 2016}}\jexpand\dntblnsbdb\viewkind1\noxlattoyen\nospaceforul\useltbaln\paperw11910\paperh16840\margl820\margr720\margt1580\margb280\noindnmbrts\sectd\sbknone\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb11\f0\fs26\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1985\fi-2\ri2925\qc\sl240\slmult1\sb89\f0\fs28\b0 \uc1\u1052 ?\uc1\u1110 ?\uc1\u1085 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1074 ?\uc1\u1086 ? \uc1\u1086 ?\uc1\u1089 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1110 ? \f0\fs28\b0\i0\expnd-1\expndtw-4 \uc1\u1085 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1082 ?\uc1\u1080 ? \f0\fs28\b0\i0\expnd-1\expndtw-5 \uc1\u1059 ?\uc1\u1082 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1111 ?\uc1\u1085 ?\uc1\u1080 ? \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1053 ?\uc1\u1072 ?\uc1\u1094 ?\uc1\u1110 ?\uc1\u1086 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1090 ?\uc1\u1077 ?\uc1\u1093 ?\uc1\u1085 ?\uc1\u1110 ?\uc1\u1095 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1091 ?\uc1\u1085 ?\uc1\u1110 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1090 ? \f0\fs28\b0\i0\expnd-1\expndtw-5 \uc1\u1059 ?\uc1\u1082 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1111 ?\uc1\u1085 ?\uc1\u1080 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2474\ri3419\qc\sl240\slmult1\f0\fs28\b0 \'AB\uc1\u1050 ?\uc1\u1080 ?\uc1\u1111 ?\uc1\u1074 ?\uc1\u1089 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1093 ?\uc1\u1085 ?\uc1\u1110 ?\uc1\u1095 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1110 ?\uc1\u1085 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1090 ? \uc1\u1110 ?\uc1\u1084 ?. \uc1\u1030 ?.\uc1\u1030 ?.\uc1\u1057 ?\uc1\u1110 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ?\'BB\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2474\ri3409\qc\sl-321\f0\fs28\b0 \uc1\u1053 ?\uc1\u1072 ?\uc1\u1074 ?\uc1\u1095 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1085 ?\uc1\u1086 ?-\uc1\u1085 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1082 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1087 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1082 ?\uc1\u1089 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1765\ri2704\qc\sl240\slmult1\sb1\f0\fs28\b0 \'AB\uc1\u1030 ?\uc1\u1085 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1090 ? \uc1\u1087 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1083 ?\uc1\u1072 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \uc1\u1089 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1084 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \uc1\u1072 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1079 ?\uc1\u1091 ?\'BB\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb2\f0\fs37\b0\i0\par\pard\plain\s4\nooverflow\nocwrap\lnbrkrule\li2474\ri2697\qc\sl240\slmult1\f0\fs32\b0\cf2 \uc1\u1051 ?\uc1\u1072 ?\uc1\u1073 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1072 ? \uc1\u1088 ?\uc1\u1086 ?\uc1\u1073 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1072 ? \uc1\u8470 ?2\par\pard\plain\s4\nooverflow\nocwrap\lnbrkrule\li2474\ri2704\qc\sl240\slmult1\sb9\f0\fs32\b0\cf2 \uc1\u1079 ? \uc1\u1076 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1094 ?\uc1\u1080 ?\uc1\u1087 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1085 ?\uc1\u1080 ?: \'93\uc1\u1050 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1087 ?\'92\uc1\u1102 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1110 ? \uc1\u1084 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1078 ?\uc1\u1110 ? \'94\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs34\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs34\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs34\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs34\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs34\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb7\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li5301\fi329\ri931\sl240\slmult1\f2\fs28\b1 \uc1\u1042 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1072 ?: \f0\fs28\b0\i0\expnd-1\expndtw-4 \uc1\u1089 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1076 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1090 ?\uc1\u1082 ?\uc1\u1072 ? \f0\fs28\b0\i0\expnd0\expndtw0 I\uc1\u8545 ? \f0\fs28\b0\i0\expnd-1\expndtw-3 \uc1\u1082 ?\uc1\u1091 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1091 ? \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1075 ?\uc1\u1088 ?\uc1\u1091 ?\uc1\u1087 ?\uc1\u1080 ?\expnd0\expndtw-1  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1050 ?\uc1\u1040 ?-74\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li5601\sl-321\f0\fs28\b0 \uc1\u1051 ?\uc1\u1102 ?\uc1\u1090 ?\uc1\u1072 ?\expnd-1\expndtw-6  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1042 ?.\uc1\u1054 ?.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li5601\sl240\slmult1\f2\fs28\b1 \uc1\u1055 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1081 ?\uc1\u1085 ?\uc1\u1103 ?\uc1\u1074 ?: \f0\fs28\b0\i0 \uc1\u1050 ?\uc1\u1091 ?\uc1\u1093 ?\uc1\u1072 ?\uc1\u1088 ?\uc1\u1108 ?\uc1\u1074 ? \uc1\u1057 ?.\uc1\u1054 ?\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb80\f2\fs21\b1 \uc1\u1055 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1076 ?\uc1\u1083 ?\uc1\u1103 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1077 ?\uc1\u1081 ? 1-7 \uc1\u1090 ?\uc1\u1072 ? 8-11:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb174\tx973\tx2560\tx4820\tx6942\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length\expnd2\expndtw10  \f0\fs21\b0\i0\expnd0\expndtw0 Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb181\tx2141\tx4479\tx6789\tx7935\tx8752\f0\fs21\b0 739\expnd9\expndtw46  \f0\fs21\b0\i0\expnd0\expndtw0 8.917047\tab 192.168.0.102\tab 128.119.245.12\tab HTTP\tab 453\tab GET\expnd9\expndtw43  \f0\fs21\b0\i0\expnd0\expndtw0 /wireshark-\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb17\f0\fs21\b0 labs/HTTP-wireshark-file1.html HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\f0\fs21\b0 Frame 739: 453 bytes on wire (3624 bits), 435 bytes captured (3624 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1467\sl417\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102 (192.168.0.102), Dst: 128.119.245.12 (128.119.245.12)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1467\sl420\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 5520 (5520), Dst Port: http (80), Seq: 1, Ack: 1, Len: 399 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri4471\sl417\slmult1\f0\fs21\b0 GET /wireshark-labs/HTTP-wireshark-file1.html HTTP/1.1\'5Cr\'5Cn Host: gaia.cs.umass.edu\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri1467\sl420\slmult1\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/45.0\'5Cr\'5Cn Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri5290\sl417\slmult1\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3 Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb175\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri2445\sl417\slmult1\sb179\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html}}
+\f0\fs21\b0\i0 ] [HTTP request 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl-241\f0\fs21\b0 [Response in frame: 748]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb181\tx7689\f0\fs21\b0\charscalex100{\uld\ulc1  \charscalex100 \tab }\charscalex100 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\tx1394\tx2981\tx5241\tx7372\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb181\tx2482\tx4636\tx6801\tx7851\tx8594\f0\fs21\b0 748\expnd5\expndtw25  \f0\fs21\b0\i0\expnd0\expndtw0 9.038187\tab 128.119.245.12\tab 192.168.1.245\tab HTTP\tab 540\tab HTTP/1.1 200\expnd0\expndtw1  \f0\fs21\b0\i0\expnd0\expndtw0 OK\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb18\f0\fs21\b0 (text/html)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Frame 748: 540 bytes on wire (4320 bits), 540 bytes captured (4320 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl420\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) Internet Protocol Version 4, Src: 128.119.245.12 (128.119.245.12), Dst: 192.168.0.102 (192.168.0.102)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: http (80), Dst Port: 5520 (5520), Seq: 1, Ack: 400, Len: 486 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl-241\f0\fs21\b0 HTTP/1.1 200 OK\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb178\f0\fs21\b0 Date: Sun, 08 Mar 2020 21:17:11 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb179\f0\fs21\b0 Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_perl/2.0.9dev Perl/v5.16.3\'5Cr\'5Cn\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\fi2\ri4917\sl417\slmult1\sb75\f0\fs21\b0 Last-Modified: Sun, 08 Mar 2020 06:59:03 GMT\'5Cr\'5Cn ETag: "80-5a0526c077876"\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\ri7254\sl420\slmult1\f0\fs21\b0 Accept-Ranges: bytes\'5Cr\'5Cn Content-Length: 128\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1402\sl-239\f0\fs21\b0 [Content length: 128]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\fi2\ri6220\sl417\slmult1\sb178\f0\fs21\b0 Keep-Alive: timeout=5, max=100\'5Cr\'5Cn Connection: Keep-Alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb2\f0\fs21\b0 Content-Type: text/html; charset=UTF-8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb180\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb178\f0\fs21\b0 [HTTP response 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\ri5290\sl420\slmult1\sb179\f0\fs21\b0 [Time since request: 0.121140000 seconds] [Request in frame: 739]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-239\f0\fs21\b0 Line-based text data: text/html\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb178\f0\fs21\b0 <html>\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\fi-3\ri3471\sl420\slmult1\sb179\tx2585\f0\fs21\b0 Congratulations.\tab \f0\fs21\b0\i0\expnd-1\expndtw-5 You've \f0\fs21\b0\i0\expnd0\expndtw0 downloaded the file \'5Cn {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html!\n" }}{\fldrslt \f0\fs21\b0\i0\expnd0\expndtw-1 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html!\'5Cn}}
+\f0\fs21\b0\i0\expnd0\expndtw-1 \par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl-239\f0\fs21\b0 </html>\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\tx7689\f0\fs21\b0\charscalex100{\uld\ulc1  \charscalex100 \tab }\charscalex100 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb179\tx1394\tx2981\tx5241\tx7372\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1088\sl240\slmult1\sb183\tx2691\tx4849\tx6993\tx8038\tx8779\f0\fs21\b0 754\expnd5\expndtw24  \f0\fs21\b0\i0\expnd0\expndtw0 9.107576\tab 192.168.0.102\tab 128.119.245.12\tab HTTP\tab 334\tab GET\expnd4\expndtw21  \f0\fs21\b0\i0\expnd0\expndtw0 /wireshark-\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb15\f0\fs21\b0 labs/HTTP-wireshark-file1.html HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Frame 754: 334 bytes on wire (2672 bits), 334 bytes captured (2672 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl417\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) , Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102 (192.168.0.102), Dst: 128.119.245.12 (128.119.245.12)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl417\slmult1\sb2\f0\fs21\b0 Transmission Control Protocol, Src Port: 5521 (5521), Dst Port: http (80), Seq: 1, Ack: 1, Len: 280 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\ri4051\sl417\slmult1\f0\fs21\b0 GET /wireshark-labs/HTTP-wireshark-file1.html HTTP/1.1\'5Cr\'5Cn Host: gaia.cs.umass.edu\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\ri931\sl417\slmult1\sb2\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)) Gecko/20100101 Firefox/45.0\'5Cr\'5Cn Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\ri4869\sl417\slmult1\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3 Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb75\f0\fs21\b0 Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\fi2\ri4917\sl417\slmult1\sb179\f0\fs21\b0 Last-Modified: Sun, 08 Mar 2020 06:59:03 GMT\'5Cr\'5Cn ETag: "80-5a0526c077876"\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb2\f0\fs21\b0 Cache-Control: max-age=0\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb178\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\ri2025\sl417\slmult1\sb179\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html}}
+\f0\fs21\b0\i0 ] [HTTP request 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb2\f0\fs21\b0 [Response in frame: 762]\par
+{\shpgrp{\*\shpinst\shplid114
+\shpleft1380\shptop320\shpright8588\shpbottom340\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz0
+\shpwr1{\sp{\sn groupLeft}{\sv 1380}}
+{\sp{\sn groupTop}{\sv 320}}
+{\sp{\sn groupRight}{\sv 8588}}
+{\sp{\sn groupBottom}{\sv 340}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}
+{\shp{\*\shpinst\shplid115
+{\sp{\sn relLeft}{\sv 1380}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 2076}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 696}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(695,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid116
+{\sp{\sn relLeft}{\sv 2078}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 2566}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 488}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid117
+{\sp{\sn relLeft}{\sv 2567}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 3055}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 488}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid118
+{\sp{\sn relLeft}{\sv 3057}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 3614}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 557}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(556,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid119
+{\sp{\sn relLeft}{\sv 3616}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 3825}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 209}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(208,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid120
+{\sp{\sn relLeft}{\sv 3827}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 8588}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 4761}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(4760,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb4\f0\fs24\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb4\f0\fs12\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb92\tx1394\tx2981\tx5241\tx7363\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1088\sl240\slmult1\sb181\tx2722\tx4922\tx7133\tx8209\tx8976\f0\fs21\b0 762\expnd6\expndtw30  \f0\fs21\b0\i0\expnd0\expndtw0 9.224545\tab 128.119.245.12\tab 192.168.0.102\tab HTTP\tab 539\tab HTTP/1.1\expnd6\expndtw30  \f0\fs21\b0\i0\expnd0\expndtw0 304\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb18\f0\fs21\b0 Not Modified\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Frame 762: 539 bytes on wire (4312 bits), 539 bytes captured (4312 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl417\slmult1\sb178\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) Internet Protocol Version 4, Src: 128.119.245.12 (128.119.245.12), Dst: 192.168.0.102 (192.168.0.102)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi420\ri931\sl420\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: http (80), Dst Port: 5521 (5521), Seq: 1, Ack: 281, Len: 485 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl-239\f0\fs21\b0 HTTP/1.1 304 Not Modified\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb179\f0\fs21\b0 Date: Sun, 08 Mar 2020 21:17:11 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\fi2\sl420\slmult1\sb178\f0\fs21\b0 Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_perl/2.0.9dev Perl/v5.16.3\'5Cr\'5Cn Connection: Keep-Alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\fi2\ri6220\sl417\slmult1\f0\fs21\b0 Keep-Alive: timeout=5, max=100\'5Cr\'5Cn ETag: "80-5a0526c077876"\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\sl240\slmult1\sb179\f0\fs21\b0 [HTTP response 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\ri5290\sl417\slmult1\sb178\f0\fs21\b0 [Time since request: 0.116969000 seconds] [Request in frame: 754]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb174\f2\fs21\b1 \uc1\u1055 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1076 ?\uc1\u1083 ?\uc1\u1103 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1077 ?\uc1\u1081 ? 12-15:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f2\fs22\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb7\f2\fs29\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\tx973\tx2560\tx4820\tx6942\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi528\ri143\sl256\slmult1\sb182\tx2405\tx4616\tx6933\tx8009\tx8769\f0\fs21\b0 535\expnd6\expndtw29  \f0\fs21\b0\i0\expnd0\expndtw0 17.445530\tab 192.168.0.102\tab 178.18.231.115\tab HTTP\tab 373\tab GET /success.txt HTTP/1.1\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb75\f0\fs21\b0 Frame 535: 373 bytes on wire (2984 bits), 373 bytes captured (2984 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1467\sl417\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102 (192.168.0.102), Dst: 178.18.231.115 (178.18.231.115)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1467\sl417\slmult1\sb2\f0\fs21\b0 Transmission Control Protocol, Src Port: 1141 (1141), Dst Port: http (80), Seq: 1, Ack: 1, Len: 319 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-241\f0\fs21\b0 GET /success.txt HTTP/1.1\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1402\fi-420\ri4090\sl420\slmult1\sb178\f0\fs21\b0 [Expert Info (Chat/Sequence): GET /success.txt HTTP/1.1\'5Cr\'5Cn] [Message: GET /success.txt HTTP/1.1\'5Cr\'5Cn]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1402\ri7140\sl417\slmult1\f0\fs21\b0 [Severity level: Chat] [Group: Sequence]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\ri6964\sl417\slmult1\f0\fs21\b0 Request Method: GET Request URI: /success.txt Request \f0\fs21\b0\i0\expnd-1\expndtw-4 Version:\expnd3\expndtw13  \f0\fs21\b0\i0\expnd-1\expndtw-3 HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Host:\expnd-2\expndtw-11  \f0\fs21\b0\i0\expnd0\expndtw0 detectportal.firefox.com\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri931\sl420\slmult1\sb178\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0\'5Cr\'5Cn Accept: */*\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri5290\sl417\slmult1\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3 Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-241\f0\fs21\b0 Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri4051\sl417\slmult1\sb178\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://www.detectportal.firefox.com/success.txt" }}{\fldrslt \f0\fs21\b0\i0 http://www.detectportal.firefox.com/success.txt}}
+\f0\fs21\b0\i0 ] [HTTP request 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl-241\f0\fs21\b0 [Response in frame: 658]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb181\tx7692\f0\fs21\b0\charscalex100{\uld\ulc1  \charscalex100 \tab }\charscalex100 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb179\tx973\tx2560\tx4820\tx6942\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb181\tx2221\tx4501\tx6782\tx7898\tx8568\f0\fs21\b0 658\expnd8\expndtw39  \f0\fs21\b0\i0\expnd0\expndtw0 17.678662\tab 178.18.231.83\tab 192.168.0.102\tab HTTP\tab 438\tab HTTP/1.1 200\expnd5\expndtw27  \f0\fs21\b0\i0\expnd0\expndtw0 OK\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb18\f0\fs21\b0 (text/plain)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs22\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb1\f0\fs21\b0 Frame 658: 438 bytes on wire (3504 bits), 438 bytes captured (3504 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl417\slmult1\sb180\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) Internet Protocol Version 4, Src: 178.18.231.83, Dst: 192.168.0.102\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 80, Dst Port: 2286, Seq: 1, Ack: 320, Len: 384 Hypertext Transfer Protocol\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb75\f0\fs21\b0 HTTP/1.1 200 OK\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1402\fi-420\ri4842\sl417\slmult1\sb179\f0\fs21\b0 [Expert Info (Chat/Sequence): HTTP/1.1 200 OK\'5Cr\'5Cn] [Message: HTTP/1.1 200 OK\'5Cr\'5Cn]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1402\ri7140\sl417\slmult1\sb2\f0\fs21\b0 [Severity level: Chat] [Group: Sequence]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li982\fi-3\ri6964\sl417\slmult1\f0\fs21\b0 Request Version: HTTP/1.1 Status Code: 200\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li980\sl240\slmult1\sb2\f0\fs21\b0 Response Phrase: OK\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi2\ri5248\sl417\slmult1\sb179\f0\fs21\b0 Last-Modified: Mon, 15 May 2017 18:04:40 GMT\'5Cr\'5Cn ETag: "ae780585f49b94ce1444eb7d28906123"\'5Cr\'5Cn Accept-Ranges: bytes\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb2\f0\fs21\b0 Server: AmazonS3\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri5189\sl417\slmult1\sb178\f0\fs21\b0 Cache-Control: no-cache, no-store, must-revalidate\'5Cr\'5Cn Date: Mon, 09 Mar 2020 16:58:33 GMT\'5Cr\'5Cn Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb2\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 [HTTP response 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri4953\sl417\slmult1\sb178\f0\fs21\b0 [Request URI: {\field {\fldinst { HYPERLINK "http://detectportal.firefox.com/success.txt" }}{\fldrslt \f0\fs21\b0\i0 http://detectportal.firefox.com/success.txt}}
+\f0\fs21\b0\i0 ] File Data: 8 bytes\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb2\f0\fs21\b0 Line-based text data: text/plain (1 lines)\par
+{\shpgrp{\*\shpinst\shplid185
+\shpleft960\shptop319\shpright8579\shpbottom339\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz1
+\shpwr1{\sp{\sn groupLeft}{\sv 960}}
+{\sp{\sn groupTop}{\sv 319}}
+{\sp{\sn groupRight}{\sv 8579}}
+{\sp{\sn groupBottom}{\sv 339}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}
+{\shp{\*\shpinst\shplid186
+{\sp{\sn relLeft}{\sv 960}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 1656}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 696}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(695,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid187
+{\sp{\sn relLeft}{\sv 1658}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 2146}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 488}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid188
+{\sp{\sn relLeft}{\sv 2147}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 2635}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 488}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid189
+{\sp{\sn relLeft}{\sv 2636}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 3193}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 557}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(556,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid190
+{\sp{\sn relLeft}{\sv 3195}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 3404}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 209}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(208,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid191
+{\sp{\sn relLeft}{\sv 3406}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 4102}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 696}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(695,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shpgrp{\*\shpinst\shplid192
+{\sp{\sn groupLeft}{\sv 4104}}
+{\sp{\sn groupTop}{\sv 327}}
+{\sp{\sn groupRight}{\sv 5081}}
+{\sp{\sn groupBottom}{\sv 347}}
+{\sp{\sn relLeft}{\sv 4104}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 5081}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid192
+{\sp{\sn relLeft}{\sv 4104}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 5081}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 977}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid192
+{\sp{\sn relLeft}{\sv 4104}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 5081}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 977}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(489,0);(976,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shp{\*\shpinst\shplid193
+{\sp{\sn relLeft}{\sv 5083}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 5640}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 557}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(556,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid194
+{\sp{\sn relLeft}{\sv 5642}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 5851}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 209}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(208,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid195
+{\sp{\sn relLeft}{\sv 5853}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 6549}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 696}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(695,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shpgrp{\*\shpinst\shplid196
+{\sp{\sn groupLeft}{\sv 6551}}
+{\sp{\sn groupTop}{\sv 327}}
+{\sp{\sn groupRight}{\sv 7528}}
+{\sp{\sn groupBottom}{\sv 347}}
+{\sp{\sn relLeft}{\sv 6551}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 7528}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid196
+{\sp{\sn relLeft}{\sv 6551}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 7528}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 977}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(487,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid196
+{\sp{\sn relLeft}{\sv 6551}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 7528}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 977}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(489,0);(976,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shp{\*\shpinst\shplid197
+{\sp{\sn relLeft}{\sv 7529}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 8086}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 557}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(556,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid198
+{\sp{\sn relLeft}{\sv 8088}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 8297}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 209}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(208,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid199
+{\sp{\sn relLeft}{\sv 8299}}
+{\sp{\sn relTop}{\sv 327}}
+{\sp{\sn relRight}{\sv 8578}}
+{\sp{\sn relBottom}{\sv 347}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 279}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(278,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9924}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineDashing}{\sv 6}}
+{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb4\f0\fs24\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb9\f0\fs12\b0\i0\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb92\f2\fs21\b1 \uc1\u1055 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1076 ?\uc1\u1083 ?\uc1\u1103 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1077 ?\uc1\u1081 ? 16-17:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri143\sl256\slmult1\sb176\tx4340\tx5180\tx6553\f0\fs21\b0 861  6.299418\expnd-1\expndtw-7  \f0\fs21\b0\i0\expnd0\expndtw0 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab HTTP\tab 549  GET\tab \f0\fs21\b0\i0\expnd0\expndtw-1 /wireshark-labs/HTTP-wireshark-file4.html \f0\fs21\b0\i0\expnd0\expndtw0 HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb163\f0\fs21\b0 Frame 861: 549 bytes on wire (4392 bits), 549 bytes captured (4392 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl417\slmult1\sb181\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102, Dst: 128.119.245.12\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 2378, Dst Port: 80, Seq: 1, Ack: 1, Len: 495 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri4471\sl417\slmult1\sb2\f0\fs21\b0 GET /wireshark-labs/HTTP-wireshark-file4.html HTTP/1.1\'5Cr\'5Cn Host: gaia.cs.umass.edu\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri6964\sl417\slmult1\f0\fs21\b0 Connection: keep-alive\'5Cr\'5Cn Upgrade-Insecure-Requests: 1\'5Cr\'5Cn\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi420\ri931\sl256\slmult1\sb78\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi420\ri931\sl256\slmult1\sb164\f0\fs21\b0 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed- exchange;v=b3;q=0.9\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb164\f0\fs21\b0 Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb181\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri2445\sl417\slmult1\sb179\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html}}
+\f0\fs21\b0\i0 ] [HTTP request 1/3]\par
+{\shp{\*\shpinst
+\shpleft931\shptop709\shpright11069\shpbottom729
+\shpfhdr0\shpwr3\shpwrk0\shplid232\shpz2
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri7397\sl422\slmult1\f0\fs21\b0 [Response in frame: 884] [Next request in frame: 949]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\fi-423\ri1662\sl417\slmult1\sb28\tx973\tx2560\tx3500\tx4820\tx5601\tx6942\tx7801\f0\fs21\b0 No.\tab \tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab \tab Destination\tab Protocol Length Info 884\expnd10\expndtw48  \f0\fs21\b0\i0\expnd0\expndtw0 6.425154\expnd-1\expndtw-4  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP\tab 1127HTTP/1.1\expnd0\expndtw-1  \f0\fs21\b0\i0\expnd0\expndtw0 200\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 OK\tab \f0\fs21\b0\i0\expnd0\expndtw-1 (text/html)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\f0\fs21\b0 Frame 884: 1127 bytes on wire (9016 bits), 1127 bytes captured (9016 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl420\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) Internet Protocol Version 4, Src: 128.119.245.12, Dst: 192.168.0.102\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 80, Dst Port: 2378, Seq: 1, Ack: 496, Len: 1073 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-241\f0\fs21\b0 HTTP/1.1 200 OK\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\f0\fs21\b0 Date: Mon, 09 Mar 2020 18:26:30 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri1467\sl417\slmult1\sb179\f0\fs21\b0 Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_perl/2.0.11 Perl/v5.16.3\'5Cr\'5Cn Last-Modified: Mon, 09 Mar 2020 05:59:01 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri7077\sl420\slmult1\f0\fs21\b0 ETag: "2ca-5a065b3267fa9"\'5Cr\'5Cn Accept-Ranges: bytes\'5Cr\'5Cn Content-Length: 714\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi2\ri6640\sl417\slmult1\f0\fs21\b0 Keep-Alive: timeout=5, max=100\'5Cr\'5Cn Connection: Keep-Alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Content-Type: text/html; charset=UTF-8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb175\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 [HTTP response 1/3]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri6131\sl420\slmult1\sb178\f0\fs21\b0 [Time since request: 0.125736000 seconds] [Request in frame: 861]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl-239\f0\fs21\b0 [Next request in frame: 949]\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb75\f0\fs21\b0 [Next response in frame: 1023]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri2766\sl417\slmult1\sb179\f0\fs21\b0 [Request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html}}
+\f0\fs21\b0\i0 ] File Data: 714 bytes\par
+{\shp{\*\shpinst
+\shpleft931\shptop288\shpright11069\shpbottom308
+\shpfhdr0\shpwr3\shpwrk0\shplid239\shpz3
+\shpbxpage\shpbypara\shpwr1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb4\f0\fs21\b0 Line-based text data: text/html (17 lines)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1655\sl417\slmult1\sb125\tx973\tx2560\tx4340\tx4828\tx5180\tx6950\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab \tab Destination\tab Protocol Length \f0\fs21\b0\i0\expnd-1\expndtw-5 Info \f0\fs21\b0\i0\expnd0\expndtw0 949  6.520478\expnd-1\expndtw-6  \f0\fs21\b0\i0\expnd0\expndtw0 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab HTTP\tab 481 GET /pearson.png\expnd-2\expndtw-12  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\tx7544\f0\fs21\b0 Frame 949: 481 bytes on wire (3848 bits), 481 bytes captured (3848 bits)\expnd-3\expndtw-16  \f0\fs21\b0\i0\expnd0\expndtw0 on interface\tab 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl420\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102, Dst: 128.119.245.12\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 2378, Dst Port: 80, Seq: 496, Ack: 1074, Len: 427 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri7060\sl417\slmult1\f0\fs21\b0 GET /pearson.png HTTP/1.1\'5Cr\'5Cn Host: gaia.cs.umass.edu\'5Cr\'5Cn Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi420\ri931\sl256\slmult1\sb1\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb163\f0\fs21\b0 Accept: image/webp,image/apng,image/*,*/*;q=0.8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri3090\sl417\slmult1\sb179\f0\fs21\b0 Referer: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\r\n" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\'5Cr\'5Cn}}
+\f0\fs21\b0\i0  Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb2\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri5034\sl417\slmult1\sb179\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/pearson.png" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/pearson.png]}}
+\f0\fs21\b0\i0  [HTTP request 2/3]\par
+{\shp{\*\shpinst
+\shpleft931\shptop1129\shpright11069\shpbottom1149
+\shpfhdr0\shpwr3\shpwrk0\shplid259\shpz4
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri7292\sl420\slmult1\sb2\f0\fs21\b0 [Prev request in frame: 861] [Response in frame: 1023] [Next request in frame: 1732]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\fi-423\ri1581\sl417\slmult1\sb29\tx973\tx1400\tx2560\tx3920\tx4820\tx6021\tx6942\tx8221\f0\fs21\b0 No.\tab \tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab \tab Destination\tab \tab Protocol Length Info 1023\tab 6.659942\expnd-1\expndtw-5  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP\tab 745  HTTP/1.1 200\expnd0\expndtw-2  \f0\fs21\b0\i0\expnd0\expndtw0 OK\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 (PNG)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\f0\fs21\b0 Frame 1023: 745 bytes on wire (5960 bits), 745 bytes captured (5960 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl417\slmult1\sb181\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99) Internet Protocol Version 4, Src: 128.119.245.12, Dst: 192.168.0.102\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\f0\fs21\b0 Transmission Control Protocol, Src Port: 80, Dst Port: 2378, Seq: 3994, Ack: 923, Len: 691\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb178\f0\fs21\b0 [3 Reassembled TCP Segments (3611 bytes): #1021(1460), #1022(1460), #1023(691)]\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi-421\ri7843\sl417\slmult1\sb75\f0\fs21\b0 Hypertext Transfer Protocol HTTP/1.1 200 OK\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-241\f0\fs21\b0 Date: Mon, 09 Mar 2020 18:26:31 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri1467\sl417\slmult1\sb181\f0\fs21\b0 Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_perl/2.0.11 Perl/v5.16.3\'5Cr\'5Cn Last-Modified: Sat, 06 Aug 2016 10:08:14 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri7089\sl417\slmult1\f0\fs21\b0 ETag: "cc3-539645c7f1ee7"\'5Cr\'5Cn Accept-Ranges: bytes\'5Cr\'5Cn Content-Length: 3267\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi2\ri6760\sl417\slmult1\sb2\f0\fs21\b0 Keep-Alive: timeout=5, max=99\'5Cr\'5Cn Connection: Keep-Alive\'5Cr\'5Cn Content-Type: image/png\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb2\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 [HTTP response 2/3]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri6131\sl417\slmult1\sb178\f0\fs21\b0 [Time since request: 0.139464000 seconds] [Prev request in frame: 861]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri7304\sl417\slmult1\sb2\f0\fs21\b0 [Prev response in frame: 884] [Request in frame: 949] [Next request in frame:\expnd0\expndtw-1  \f0\fs21\b0\i0\expnd-1\expndtw-3 1732]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\f0\fs21\b0 [Next response in frame: 1856]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri5355\sl417\slmult1\sb181\f0\fs21\b0 [Request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/pearson.png" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/pearson.png]}}
+\f0\fs21\b0\i0  File Data: 3267 bytes\par
+{\shp{\*\shpinst
+\shpleft931\shptop286\shpright11069\shpbottom306
+\shpfhdr0\shpwr3\shpwrk0\shplid275\shpz5
+\shpbxpage\shpbypara\shpwr1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb2\f0\fs21\b0 Portable Network Graphics\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb125\tx975\tx2562\tx4822\tx6944\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\tx1400\tx5180\tx6021\f0\fs21\b0 1031\tab 6.661353\expnd-1\expndtw-4  \f0\fs21\b0\i0\expnd0\expndtw0 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab HTTP\tab 495 GET /~kurose/cover_5th_ed.jpg\expnd-2\expndtw-10  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb181\f0\fs21\b0 Frame 1031: 495 bytes on wire (3960 bits), 495 bytes captured (3960 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl417\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102, Dst: 128.119.245.12\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl420\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 2381, Dst Port: 80, Seq: 1, Ack: 1, Len: 441 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri5885\sl417\slmult1\f0\fs21\b0 GET /~kurose/cover_5th_ed.jpg HTTP/1.1\'5Cr\'5Cn Host: manic.cs.umass.edu\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb180\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb75\f0\fs21\b0 Chrome/80.0.3987.132 Safari/537.36\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb179\f0\fs21\b0 Accept: image/webp,image/apng,image/*,*/*;q=0.8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri3090\sl420\slmult1\sb178\f0\fs21\b0 Referer: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\r\n" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\'5Cr\'5Cn}}
+\f0\fs21\b0\i0  Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl-239\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 \'5Cr\'5Cn\par
+{\shp{\*\shpinst
+\shpleft931\shptop887\shpright11069\shpbottom907
+\shpfhdr0\shpwr3\shpwrk0\shplid312\shpz6
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri3696\sl422\slmult1\sb178\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://manic.cs.umass.edu/%7Ekurose/cover_5th_ed.jpg" }}{\fldrslt \f0\fs21\b0\i0 http://manic.cs.umass.edu/~kurose/cover_5th_ed.jpg]}}
+\f0\fs21\b0\i0  [HTTP request 1/1]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1662\sl417\slmult1\sb29\tx973\tx2560\tx4760\tx4820\tx5601\tx6942\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab \tab Destination\tab Protocol Length Info 1732\tab 7.417241\expnd-1\expndtw-4  \f0\fs21\b0\i0\expnd0\expndtw0 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab HTTP\tab 481 GET /favicon.ico\expnd-2\expndtw-9  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP/1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\tx7647\f0\fs21\b0 Frame 1732: 481 bytes on wire (3848 bits), 481 bytes captured (3848 bits)\expnd-3\expndtw-17  \f0\fs21\b0\i0\expnd0\expndtw0 on interface\tab 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1759\sl420\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99), Dst: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa) Internet Protocol Version 4, Src: 192.168.0.102, Dst: 128.119.245.12\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2445\sl417\slmult1\f0\fs21\b0 Transmission Control Protocol, Src Port: 2378, Dst Port: 80, Seq: 923, Ack: 4685, Len: 427 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri7142\sl420\slmult1\f0\fs21\b0 GET /favicon.ico HTTP/1.1\'5Cr\'5Cn Host: gaia.cs.umass.edu\'5Cr\'5Cn Connection: keep-alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi420\ri931\sl256\slmult1\f0\fs21\b0 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb157\f0\fs21\b0 Accept: image/webp,image/apng,image/*,*/*;q=0.8\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\ri3090\sl417\slmult1\sb178\f0\fs21\b0 Referer: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\r\n" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html\'5Cr\'5Cn}}
+\f0\fs21\b0\i0  Accept-Encoding: gzip, deflate\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb2\f0\fs21\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri5116\sl417\slmult1\sb179\f0\fs21\b0 [Full request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/favicon.ico" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/favicon.ico]}}
+\f0\fs21\b0\i0  [HTTP request 3/3]\par
+{\shp{\*\shpinst
+\shpleft931\shptop709\shpright11069\shpbottom729
+\shpfhdr0\shpwr3\shpwrk0\shplid313\shpz7
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 10138}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(10137,0);(0,0);(0,14);(10137,14);(10137,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri7420\sl420\slmult1\sb2\f0\fs21\b0 [Prev request in frame: 949] [Response in frame: 1856]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb31\tx973\tx2560\tx4820\tx6942\f0\fs21\b0 No.\tab \f0\fs21\b0\i0\expnd-1\expndtw-4 Time\tab \f0\fs21\b0\i0\expnd0\expndtw0 Source\tab Destination\tab Protocol Length Info\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb178\tx1400\tx3920\tx6021\tx8821\f0\fs21\b0 1856\tab 7.544480\expnd-1\expndtw-5  \f0\fs21\b0\i0\expnd0\expndtw0 128.119.245.12\tab 192.168.0.102\expnd-1\expndtw-3  \f0\fs21\b0\i0\expnd0\expndtw0 HTTP\tab 538  HTTP/1.1 404\expnd-1\expndtw-5  \f0\fs21\b0\i0\expnd0\expndtw0 Not\expnd0\expndtw-1  \f0\fs21\b0\i0\expnd0\expndtw0 Found\tab (text/html)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb179\f0\fs21\b0 Frame 1856: 538 bytes on wire (4304 bits), 538 bytes captured (4304 bits) on interface 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb179\f0\fs21\b0 Ethernet II, Src: Tp-LinkT_ae:15:aa (30:b5:c2:ae:15:aa), Dst: 42:9f:54:41:b6:99 (42:9f:54:41:b6:99)\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb75\f0\fs21\b0 Internet Protocol Version 4, Src: 128.119.245.12, Dst: 192.168.0.102\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri2025\sl417\slmult1\sb179\f0\fs21\b0 Transmission Control Protocol, Src Port: 80, Dst Port: 2378, Seq: 4685, Ack: 1350, Len: 484 Hypertext Transfer Protocol\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb2\f0\fs21\b0 HTTP/1.1 404 Not Found\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\sb178\f0\fs21\b0 Date: Mon, 09 Mar 2020 18:26:32 GMT\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi2\ri1467\sl417\slmult1\sb179\f0\fs21\b0 Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_perl/2.0.11 Perl/v5.16.3\'5Cr\'5Cn Content-Length: 209\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\fi2\ri6745\sl417\slmult1\sb2\f0\fs21\b0 Keep-Alive: timeout=5, max=98\'5Cr\'5Cn Connection: Keep-Alive\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li560\sl240\slmult1\f0\fs21\b0 Content-Type: text/html; charset=iso-8859-1\'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb179\f0\fs21\b0 \'5Cr\'5Cn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\sl240\slmult1\sb181\f0\fs21\b0 [HTTP response 3/3]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri6131\sl417\slmult1\sb178\f0\fs21\b0 [Time since request: 0.127239000 seconds] [Prev request in frame: 949]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri7187\sl420\slmult1\f0\fs21\b0 [Prev response in frame: 1023] [Request in frame: 1732]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li562\ri5437\sl417\slmult1\f0\fs21\b0 [Request URI: {\field {\fldinst { HYPERLINK "http://gaia.cs.umass.edu/favicon.ico" }}{\fldrslt \f0\fs21\b0\i0 http://gaia.cs.umass.edu/favicon.ico]}}
+\f0\fs21\b0\i0  File Data: 209 bytes\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl-241\f0\fs21\b0 Line-based text data: text/html (7 lines)\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb180\f2\fs28\b1 \uc1\u1050 ?\uc1\u1086 ?\uc1\u1085 ?\uc1\u1090 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1085 ?\uc1\u1110 ? \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ?:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f2\fs30\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb6\f2\fs30\b1\i0\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri143\sl256\slmult1\tx429\f2\fs28\b1\expnd-1\expndtw-3 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1110 ?\uc1\u1102 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd0\expndtw0 HTTP \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1091 ?\uc1\u1108 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ? \f2\fs28\b1\i0\expnd0\expndtw0 (1.0 \uc1\u1095 ?\uc1\u1080 ? 1.1)? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1110 ?\uc1\u1102 ?\uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1091 ? \uc1\u1074 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1091 ?\uc1\u1108 ?\expnd1\expndtw5  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb159\f0\fs28\b0 \uc1\u1054 ?\uc1\u1073 ?\uc1\u1080 ?\uc1\u1076 ?\uc1\u1074 ?\uc1\u1072 ? \uc1\u1074 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1091 ?\uc1\u1102 ?\uc1\u1090 ?\uc1\u1100 ? \uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1110 ?\uc1\u1102 ? 1.1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb8\f0\fs30\b0\i0\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li428\fi-289\sl240\slmult1\tx429\f2\fs28\b1 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1110 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1084 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 (\uc1\u1103 ?\uc1\u1082 ?\uc1\u1097 ?\uc1\u1086 ? \uc1\u1074 ?\uc1\u1082 ?\uc1\u1072 ?\uc1\u1079 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1086 ?) \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ? \f2\fs28\b1\i0\expnd-1\expndtw-6 \uc1\u1084 ?\uc1\u1086 ?\uc1\u1078 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1087 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1081 ?\uc1\u1085 ?\uc1\u1103 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\expnd2\expndtw8  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb179\f0\fs28\b0 \uc1\u1040 ?\uc1\u1084 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1089 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1091 ? \uc1\u1072 ?\uc1\u1085 ?\uc1\u1075 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1081 ?\uc1\u1089 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1091 ? \uc1\u1084 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1091 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb187\f0\fs28\b0 Accept-Language: ru,en-US;q=0.8,en;q=0.5,uk;q=0.3\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li428\fi-289\sl240\slmult1\sb189\tx429\f2\fs28\b1 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1110 ? IP-\uc1\u1072 ?\uc1\u1076 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1089 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \uc1\u1082 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1087 ?\'92\uc1\u1102 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1090 ?\uc1\u1072 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1094 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ?\expnd2\expndtw12  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1077 ?\uc1\u1073 ?-\uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb180\f0\fs28\b0 \uc1\u1052 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \uc1\u1082 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1087 ?\uc1\u1102 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ?: 192.168.0.102\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb187\f0\fs28\b0 \uc1\u1042 ?\uc1\u1077 ?\uc1\u1073 ?-\uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ?: 128.119.245.12\par\sect\sectd\sbkpage\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb2\f0\fs22\b0\i0\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li428\fi-289\qj\sl240\slmult1\sb89\tx429\f2\fs28\b1 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1089 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1082 ?\uc1\u1086 ?\uc1\u1076 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1091 ?\uc1\u1074 ? \uc1\u1091 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ? \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1091 ?\expnd-2\expndtw-11  \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1091 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb182\f0\fs28\b0 200 OK\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri151\qj\sl256\slmult1\sb191\tx429\f2\fs28\b1\expnd-1\expndtw-5 \uc1\u1050 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1085 ?\uc1\u1072 ? \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1110 ? \uc1\u1074 ? \uc1\u1086 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1110 ?\uc1\u1081 ? \uc1\u1088 ?\uc1\u1072 ?\uc1\u1079 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1074 ? \uc1\u1084 ?\uc1\u1086 ?\uc1\u1076 ?\uc1\u1080 ?\uc1\u1092 ?\uc1\u1110 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1092 ?\uc1\u1072 ?\uc1\u1081 ?\uc1\u1083 ?, \uc1\u1103 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1108 ?\uc1\u1090 ?\uc1\u1100 ?\uc1\u1089 ?\uc1\u1103 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1084 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb161\f0\fs28\b0 Sun, 08 Mar 2020 06:59:03 GMT\par\pard\plain\s5\ls1\ilvl0\nooverflow\nocwrap\lnbrkrule\li428\fi-289\qj\sl240\slmult1\sb189\tx429\f2\fs28\b1 \uc1\u1057 ?\uc1\u1082 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1073 ?\uc1\u1072 ?\uc1\u1081 ?\uc1\u1090 ? \uc1\u1082 ?\uc1\u1086 ?\uc1\u1085 ?\uc1\u1090 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1090 ?\uc1\u1091 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1108 ?\uc1\u1090 ?\uc1\u1100 ?\uc1\u1089 ?\uc1\u1103 ?\expnd-1\expndtw-4  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1084 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb180\f0\fs28\b0 128\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri142\qj\sl259\slmult1\sb1\tx429\f2\fs28\b1\expnd-1\expndtw-3 \uc1\u1055 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1075 ?\uc1\u1083 ?\uc1\u1103 ?\uc1\u1076 ?\uc1\u1072 ?\uc1\u1102 ?\uc1\u1095 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1085 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1079 ?\uc1\u1110 ?\uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1072 ?\uc1\u1081 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1080 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1087 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1082 ? \f2\fs28\b1\i0\expnd-1\expndtw-7 \uc1\u1087 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1091 ?, \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1095 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1072 ?\uc1\u1095 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1080 ? \uc1\u1076 ?\uc1\u1077 ?\uc1\u1103 ?\uc1\u1082 ?\uc1\u1110 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1082 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1087 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1094 ?\uc1\u1110 ?, \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1103 ?\uc1\u1082 ?\uc1\u1110 ? \uc1\u1085 ?\uc1\u1077 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1078 ?\uc1\u1072 ?\uc1\u1102 ?\uc1\u1090 ?\uc1\u1100 ?\uc1\u1089 ?\uc1\u1103 ? \uc1\u1091 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1082 ?\uc1\u1085 ?\uc1\u1110 ? \uc1\u1076 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1087 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1091 ?? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1097 ?\uc1\u1086 ? \uc1\u1090 ?\uc1\u1072 ?\uc1\u1082 ?, \uc1\u1085 ?\uc1\u1072 ?\uc1\u1079 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1090 ?\uc1\u1100 ? \uc1\u1086 ?\uc1\u1076 ?\uc1\u1080 ?\uc1\u1085 ? \uc1\u1079 ?\expnd-1\expndtw-7  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1085 ?\uc1\u1080 ?\uc1\u1093 ?.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\qj\sl240\slmult1\sb152\f0\fs28\b0 \uc1\u1053 ?\uc1\u1077 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1090 ?\uc1\u1080 ?\uc1\u1083 ?\uc1\u1072 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri145\qj\sl256\slmult1\sb1\tx429\f2\fs28\b1 \uc1\u1055 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1088 ?\uc1\u1090 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1087 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1091 ? HTTP GET \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ? \f2\fs28\b1\i0\expnd0\expndtw-2 \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1076 ?\uc1\u1086 ? \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ?. \uc1\u1063 ?\uc1\u1080 ? \uc1\u1108 ? \uc1\u1074 ? \uc1\u1085 ?\uc1\u1100 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1086 ?\uc1\u1082 ?\expnd0\expndtw-1  \f2\fs28\b1\i0\expnd0\expndtw0 IF-MODIFIED-SINCE?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\qj\sl240\slmult1\sb158\f0\fs28\b0 \uc1\u1053 ?\uc1\u1110 ?, \uc1\u1085 ?\uc1\u1077 ?\uc1\u1084 ?\uc1\u1072 ?\uc1\u1108 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri149\sl256\slmult1\tx429\f2\fs28\b1 \uc1\u1055 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1088 ?\uc1\u1090 ?\uc1\u1077 ? \uc1\u1074 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ? \uc1\u1087 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1111 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ? \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ?. \uc1\u1063 ?\uc1\u1080 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1091 ?\uc1\u1074 ? \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ? \uc1\u1074 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ? \uc1\u1092 ?\uc1\u1072 ?\uc1\u1081 ?\uc1\u1083 ?\uc1\u1091 ? \uc1\u1073 ?\uc1\u1077 ?\uc1\u1079 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1100 ?\uc1\u1086 ? \uc1\u1091 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb161\f0\fs28\b0 \uc1\u1058 ?\uc1\u1072 ?\uc1\u1082 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb8\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri144\sl256\slmult1\sb1\tx568\f2\fs28\b1 \uc1\u1055 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1088 ?\uc1\u1090 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1076 ?\uc1\u1088 ?\uc1\u1091 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1075 ?\uc1\u1086 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1091 ? HTTP GET. \uc1\u1063 ?\uc1\u1080 ? \uc1\u1108 ? \uc1\u1074 ? \uc1\u1085 ?\uc1\u1100 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1086 ?\uc1\u1082 ? \f2\fs28\b1\i0\expnd0\expndtw0 IF- MODIFIED-SINCE? \uc1\u1071 ?\uc1\u1082 ?\uc1\u1097 ?\uc1\u1086 ? \uc1\u1090 ?\uc1\u1072 ?\uc1\u1082 ?, \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1103 ?\uc1\u1082 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1079 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1095 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ? \uc1\u1081 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1091 ?\expnd-1\expndtw-3  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1072 ?\uc1\u1108 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\qj\sl240\slmult1\sb160\f0\fs28\b0 \uc1\u1053 ?\uc1\u1110 ?, \uc1\u1085 ?\uc1\u1077 ?\uc1\u1084 ?\uc1\u1072 ?\uc1\u1108 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb8\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri148\sl256\slmult1\tx568\f2\fs28\b1 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1081 ?\expnd-2\expndtw-9  \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1082 ?\uc1\u1086 ?\uc1\u1076 ?\expnd-2\expndtw-11  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1090 ?\uc1\u1072 ?\expnd-2\expndtw-10  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1086 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1089 ?\expnd-2\expndtw-10  \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1089 ?\uc1\u1091 ?\expnd-2\expndtw-10  \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1076 ?\uc1\u1088 ?\uc1\u1091 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1111 ?\expnd-2\expndtw-10  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ?\expnd-2\expndtw-8  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ??\expnd-2\expndtw-10  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1063 ?\uc1\u1080 ?\expnd-2\expndtw-11  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1091 ?\uc1\u1074 ?\expnd-2\expndtw-11  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\expnd-2\expndtw-11  \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1084 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1090 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1092 ?\uc1\u1072 ?\uc1\u1081 ?\uc1\u1083 ?\uc1\u1091 ? \uc1\u1073 ?\uc1\u1077 ?\uc1\u1079 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1100 ?\uc1\u1086 ? \uc1\u1091 ?\expnd0\expndtw1  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb161\f0\fs28\b0 304 Not Modified, \uc1\u1085 ?\uc1\u1110 ?\par\sect\sectd\sbkpage\margtsxn1340\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li567\fi-428\sl240\slmult1\sb77\tx568\f2\fs28\b1 \uc1\u1057 ?\uc1\u1082 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1084 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1100 ? \f2\fs28\b1\i0\expnd0\expndtw0 HTTP GET \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1083 ?\uc1\u1086 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1074 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1086 ? \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ?\uc1\u1080 ?\uc1\u1084 ?\expnd1\expndtw4  \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1084 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb180\f0\fs28\b0 \uc1\u1054 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1077 ?\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls2\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri140\sl256\slmult1\tx568\f2\fs28\b1 \uc1\u1057 ?\uc1\u1082 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1087 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1074 ? TCP \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1083 ?\uc1\u1086 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1085 ?\uc1\u1077 ?\uc1\u1086 ?\uc1\u1073 ?\uc1\u1093 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1086 ? \uc1\u1076 ?\uc1\u1083 ?\uc1\u1103 ? \uc1\u1076 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1074 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1086 ?\uc1\u1076 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1111 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ? HTTP- \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ??\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb161\f0\fs28\b0 294\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb6\f0\fs30\b0\i0\par\pard\plain\s5\ls3\ilvl0\nooverflow\nocwrap\lnbrkrule\li567\fi-428\sl240\slmult1\tx568\f2\fs28\b1 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1081 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1082 ?\uc1\u1086 ?\uc1\u1076 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1090 ?\uc1\u1072 ? \uc1\u1086 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1089 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1089 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1074 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1091 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ?\expnd1\expndtw4  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1089 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1074 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1072 ??\f2\fs28\cf1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb182\f0\fs28\b0 200 OK\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls3\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri144\sl256\slmult1\sb1\tx568\f2\fs28\b1 \uc1\u1063 ?\uc1\u1080 ? \uc1\u1079 ?\uc1\u1091 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1088 ?\uc1\u1110 ?\uc1\u1095 ?\uc1\u1072 ?\uc1\u1102 ?\uc1\u1090 ?\uc1\u1100 ?\uc1\u1089 ?\uc1\u1103 ? \uc1\u1091 ? \uc1\u1076 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1080 ?\uc1\u1093 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1087 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1074 ?-\uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1078 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1100 ? \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd0\expndtw0 TCP \uc1\u1089 ?\uc1\u1090 ?\uc1\u1088 ?\uc1\u1110 ?\uc1\u1095 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1079 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1082 ?\uc1\u1086 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1084 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1090 ?\uc1\u1072 ? \uc1\u1086 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1086 ?\uc1\u1084 ? \f2\fs28\b1\i0\expnd-1\expndtw-4 \uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1091 ?\uc1\u1089 ?\uc1\u1091 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1110 ?, \uc1\u1072 ?\uc1\u1073 ?\uc1\u1086 ? \uc1\u1078 ? \uc1\u1103 ?\uc1\u1082 ?\uc1\u1110 ?\uc1\u1089 ?\uc1\u1100 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1075 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1091 ?\expnd1\expndtw6  \f2\fs28\b1\i0\expnd0\expndtw0 HTTP?\f2\fs28\cf1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb158\f0\fs28\b0 \uc1\u1058 ?\uc1\u1072 ?\uc1\u1082 ?, \uc1\u1090 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1084 ? \uc1\u1095 ?\uc1\u1080 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1084 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1095 ?\uc1\u1080 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1108 ?\uc1\u1090 ?\uc1\u1100 ?\uc1\u1089 ?\uc1\u1103 ? \uc1\u1087 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1096 ?\uc1\u1080 ?\uc1\u1081 ? \uc1\u1087 ?\uc1\u1072 ?\uc1\u1082 ?\uc1\u1077 ?\uc1\u1090 ? \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1091 ? TCP\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb10\f0\fs30\b0\i0\par\pard\plain\s5\ls3\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri148\sl256\slmult1\sb1\tx568\f2\fs28\b1 \uc1\u1057 ?\uc1\u1082 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1082 ?\uc1\u1080 ? \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1074 ? HTTP GET \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1083 ?\uc1\u1086 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1074 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1086 ? \uc1\u1074 ?\uc1\u1072 ?\uc1\u1096 ?\uc1\u1080 ?\uc1\u1084 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1073 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1091 ?\uc1\u1079 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1084 ?? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1071 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1084 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1083 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1094 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ? IP-\uc1\u1072 ?\uc1\u1076 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1089 ?\uc1\u1080 ?\expnd0\expndtw-1  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1074 ??\f0\fs28\cf1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb158\f0\fs28\b0 6 \uc1\u1079 ?\uc1\u1072 ?\uc1\u1087 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1110 ?\uc1\u1074 ?.\par\pard\plain\s5\ls3\ilvl0\nooverflow\nocwrap\lnbrkrule\li140\ri145\sl256\slmult1\sb194\tx568\f2\fs28\b1 \uc1\u1063 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-3 \uc1\u1084 ?\uc1\u1086 ?\uc1\u1078 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1077 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1074 ?\uc1\u1080 ? \uc1\u1074 ?\uc1\u1089 ?\uc1\u1090 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1080 ?\uc1\u1090 ?\uc1\u1080 ?, \uc1\u1095 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd-1\expndtw-5 \uc1\u1073 ?\uc1\u1091 ?\uc1\u1083 ?\uc1\u1080 ? \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1088 ?\uc1\u1077 ?\uc1\u1089 ?\uc1\u1091 ?\uc1\u1088 ?\uc1\u1089 ?\uc1\u1080 ? \uc1\u1086 ?\uc1\u1090 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1084 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1110 ? \uc1\u1087 ?\uc1\u1072 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1077 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1085 ?\uc1\u1086 ? \uc1\u1095 ?\uc1\u1080 ? \uc1\u1087 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1085 ?\uc1\u1086 ?? \uc1\u1071 ?\uc1\u1082 ?\uc1\u1080 ?\uc1\u1084 ?\expnd-1\expndtw-3  \f2\fs28\b1\i0\expnd0\expndtw0 \uc1\u1095 ?\uc1\u1080 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1084 ??\f0\fs28\cf1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\sl240\slmult1\sb158\f0\fs28\b0 \uc1\u1055 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1085 ?\uc1\u1086 ?, \uc1\u1079 ?\uc1\u1072 ? \uc1\u1095 ?\uc1\u1072 ?\uc1\u1089 ?\uc1\u1086 ?\uc1\u1084 ? \uc1\u1085 ?\uc1\u1072 ?\uc1\u1076 ?\uc1\u1093 ?\uc1\u1086 ?\uc1\u1076 ?\uc1\u1078 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ? \uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1087 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1077 ?\uc1\u1081 ? \uc1\u1090 ?\uc1\u1072 ? \uc1\u1072 ?\uc1\u1076 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1089 ?\uc1\u1072 ?\uc1\u1084 ?\uc1\u1080 ?.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb6\f0\fs30\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\ri1076\qj\sl256\slmult1\f0\fs28\b0 \uc1\u1042 ?\uc1\u1080 ?\uc1\u1089 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1074 ?\uc1\u1082 ?\uc1\u1080 ?: \uc1\u1042 ? \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1094 ?\uc1\u1077 ?\uc1\u1089 ?\uc1\u1110 ? \f0\fs28\b0\i0\expnd-1\expndtw-3 \uc1\u1074 ?\uc1\u1080 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1085 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ? \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1076 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1111 ? \uc1\u1083 ?\uc1\u1072 ?\uc1\u1073 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1072 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1085 ?\uc1\u1086 ?\uc1\u1111 ? \uc1\u1088 ?\uc1\u1086 ?\uc1\u1073 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1080 ? \uc1\u1084 ?\uc1\u1080 ? \uc1\u1088 ?\uc1\u1086 ?\uc1\u1079 ?\uc1\u1075 ?\uc1\u1083 ?\uc1\u1103 ?\uc1\u1076 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1080 ? \f0\fs28\b0\i0\expnd-1\expndtw-4 \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1080 ?\expnd-4\expndtw-21  \f0\fs28\b0\i0\expnd0\expndtw0 HTTP,\expnd-4\expndtw-21  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1076 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1078 ?\uc1\u1091 ?\uc1\u1074 ?\uc1\u1072 ?\uc1\u1083 ?\uc1\u1080 ?\expnd-4\expndtw-20  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1111 ?\uc1\u1093 ?\expnd-4\expndtw-20  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1079 ?\expnd-4\expndtw-20  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1084 ?\uc1\u1077 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1102 ?\expnd-4\expndtw-22  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1086 ?\uc1\u1090 ?\uc1\u1088 ?\uc1\u1080 ?\uc1\u1084 ?\uc1\u1072 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ?\expnd-4\expndtw-20  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1073 ?\uc1\u1110 ?\uc1\u1083 ?\uc1\u1100 ?\uc1\u1096 ?\uc1\u1086 ?\uc1\u1111 ?\expnd-3\expndtw-15  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1110 ?\uc1\u1085 ?\uc1\u1092 ?\uc1\u1086 ?\uc1\u1088 ?\uc1\u1084 ?\uc1\u1072 ?\uc1\u1094 ?\uc1\u1110 ?\uc1\u1111 ?\expnd-4\expndtw-22  \f0\fs28\b0\i0\expnd0\expndtw0 \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ? \uc1\u1076 ?\uc1\u1086 ?\uc1\u1089 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1076 ?\uc1\u1078 ?\uc1\u1077 ?\uc1\u1085 ?\uc1\u1085 ?\uc1\u1103 ? \uc1\u1084 ?\uc1\u1077 ?\uc1\u1088 ?\uc1\u1077 ?\uc1\u1078 ?\uc1\u1077 ?\uc1\u1074 ?\uc1\u1080 ?\uc1\u1093 ?\expnd0\expndtw-2  \f0\fs28\b0\i0\expnd-1\expndtw-4 \uc1\u1087 ?\uc1\u1088 ?\uc1\u1086 ?\uc1\u1090 ?\uc1\u1086 ?\uc1\u1082 ?\uc1\u1086 ?\uc1\u1083 ?\uc1\u1110 ?\uc1\u1074 ?.\par}
