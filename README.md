@@ -9,3 +9,23 @@ Repository structure is described in readme.txt
 
 Слоты:
   https://docs.google.com/spreadsheets/d/1UuLfm2ZU9bBbkcA4TeWbhmcKL2mkzLBMS75ZltASD4g/edit?usp=sharing
+
+Folders structure:
+
++- group folder ( example: ka71, ka72, ka73, ka74, ka77 )
+|\
+| +- student folder ( example: Ivanov Ivan )
+| |\
+| | +- lab1 folder
+| | |\
+| | | - report.pdf
+| | |
+| | |\
+| | | - ...
+| | |
+| | |\
+| | | +- dump
+| | | |\
+| | | | +- ...
+
+https://sergej-kucharev.github.io/cn-2020/index.html
